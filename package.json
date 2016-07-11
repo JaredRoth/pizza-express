@@ -1,0 +1,28 @@
+{
+  "name": "pizza-express",
+  "version": "1.0.0",
+  "description": "Like planet express, but for pizza. (For delivery TO pizzas)",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredroth/pizza-express.git"
+  },
+  "author": "Jared Roth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaredroth/pizza-express/issues"
+  },
+  "homepage": "https://github.com/jaredroth/pizza-express#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "request": "^2.73.0"
+  }
+}
